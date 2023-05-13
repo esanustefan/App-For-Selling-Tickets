@@ -1,0 +1,14 @@
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\bin\Debug\Model.dll.config
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\bin\Debug\Model.dll
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\bin\Debug\Model.pdb
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\obj\Debug\Model.dll
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\obj\Debug\Model.pdb
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Esanu\RiderProjects\Baschet-Server-Client3\Model\bin\Debug\System.Data.SQLite.xml
